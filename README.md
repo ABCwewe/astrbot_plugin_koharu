@@ -16,7 +16,7 @@ Koharu 漫画翻译插件。通过 Koharu HTTP API 在 AstrBot 聊天中翻译�
 
 ## 前置条件
 
-- 请先完成 `Koharu(>=0.61.0)` 本体部署。
+- 请先完成 `Koharu(>=0.61.0,<=0.61.2)` 本体部署。
 - 官方仓库：[Koharu](https://github.com/mayocream/koharu)
 - 参考指南：[Koharu 安装指南](https://koharu.rs/zh-CN/how-to/install-koharu/)
 
@@ -81,7 +81,7 @@ Koharu manga translation plugin. It translates manga images in AstrBot chats thr
 
 ## Prerequisites
 
-- Deploy `Koharu(>=0.61.0)` first.
+- Deploy `Koharu(>=0.61.0,<=0.61.2)` first.
 - Official repository: [Koharu](https://github.com/mayocream/koharu)
 - Installation guide: [Koharu installation guide](https://koharu.rs/how-to/install-koharu/)
 
